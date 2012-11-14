@@ -1,3 +1,4 @@
 {
-	"extensions": ["scm"]
+	"extensions": ["scm"],
+  "auto_match_enabled": false
 }
