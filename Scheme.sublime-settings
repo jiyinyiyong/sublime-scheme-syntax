@@ -1,4 +1,5 @@
 {
 	"extensions": ["scm"],
+  "auto_match_no_single_quotes_enabled": true,
   "auto_match_enabled": false
 }
